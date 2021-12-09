@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta0">
+    <void property="pregunta">
+     <array class="java.lang.String" length="6">
+      <void index="0">
+       <string>Que</string>
+      </void>
+      <void index="1">
+       <string>vas</string>
+      </void>
+      <void index="2">
+       <string>a</string>
+      </void>
+      <void index="3">
+       <string>hacer</string>
+      </void>
+      <void index="4">
+       <string>este</string>
+      </void>
+      <void index="5">
+       <string>verano?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Que</string>
+     </void>
+     <void method="add">
+      <string>vas</string>
+     </void>
+     <void method="add">
+      <string>hacer</string>
+     </void>
+     <void method="add">
+      <string>este</string>
+     </void>
+     <void method="add">
+      <string>verano?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Me voy a Punta del Este!</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta1">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Mate</string>
+      </void>
+      <void index="1">
+       <string>amargo</string>
+      </void>
+      <void index="2">
+       <string>o</string>
+      </void>
+      <void index="3">
+       <string>dulce?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Mate</string>
+     </void>
+     <void method="add">
+      <string>amargo</string>
+     </void>
+     <void method="add">
+      <string>dulce?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dulce</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Amargo</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Como estas?</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta2">
+    <void property="pregunta">
+     <array class="java.lang.String" length="6">
+      <void index="0">
+       <string>A</string>
+      </void>
+      <void index="1">
+       <string>donde</string>
+      </void>
+      <void index="2">
+       <string>te</string>
+      </void>
+      <void index="3">
+       <string>vas</string>
+      </void>
+      <void index="4">
+       <string>de</string>
+      </void>
+      <void index="5">
+       <string>viaje?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>donde</string>
+     </void>
+     <void method="add">
+      <string>vas</string>
+     </void>
+     <void method="add">
+      <string>viaje?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>A Miami</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta3">
+    <void property="pregunta">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>Que</string>
+      </void>
+      <void index="1">
+       <string>estas</string>
+      </void>
+      <void index="2">
+       <string>haciendo?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Que</string>
+     </void>
+     <void method="add">
+      <string>estas</string>
+     </void>
+     <void method="add">
+      <string>haciendo?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Estoy mirando una pelicula</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta4">
+    <void property="pregunta">
+     <array class="java.lang.String" length="6">
+      <void index="0">
+       <string>Fuiste</string>
+      </void>
+      <void index="1">
+       <string>a</string>
+      </void>
+      <void index="2">
+       <string>ver</string>
+      </void>
+      <void index="3">
+       <string>Los</string>
+      </void>
+      <void index="4">
+       <string>Increibles</string>
+      </void>
+      <void index="5">
+       <string>2?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Fuiste</string>
+     </void>
+     <void method="add">
+      <string>ver</string>
+     </void>
+     <void method="add">
+      <string>Los</string>
+     </void>
+     <void method="add">
+      <string>Increibles</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No no, tengo que ir!!!</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta5">
+    <void property="pregunta">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>Jugas</string>
+      </void>
+      <void index="1">
+       <string>DyD?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Jugas</string>
+     </void>
+     <void method="add">
+      <string>DyD?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No me gustan los juegos de roll</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta6">
+    <void property="pregunta">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>Donde</string>
+      </void>
+      <void index="1">
+       <string>estas?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Donde</string>
+     </void>
+     <void method="add">
+      <string>estas?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>En casa</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta7">
+    <void property="pregunta">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>Vamos</string>
+      </void>
+      <void index="1">
+       <string>a</string>
+      </void>
+      <void index="2">
+       <string>caminar?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Vamos</string>
+     </void>
+     <void method="add">
+      <string>caminar?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dale</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dale, vamos</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Como anda tu dia?</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No todavia</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dale, por supuesto</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta8">
+    <void property="pregunta">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>Como</string>
+      </void>
+      <void index="1">
+       <string>estas?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Como</string>
+     </void>
+     <void method="add">
+      <string>estas?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Bien, gracias</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Bien,gracias</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Bien</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta9">
+    <void property="pregunta">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>Como</string>
+      </void>
+      <void index="1">
+       <string>estas</string>
+      </void>
+      <void index="2">
+       <string>hoy?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Como</string>
+     </void>
+     <void method="add">
+      <string>estas</string>
+     </void>
+     <void method="add">
+      <string>hoy?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Bien, gracias</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>si</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>bien</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Bien</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta10">
+    <void property="pregunta">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>Todo</string>
+      </void>
+      <void index="1">
+       <string>bien?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Todo</string>
+     </void>
+     <void method="add">
+      <string>bien?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Todo tranquilo</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Salis a bailar?</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta11">
+    <void property="pregunta">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>Como</string>
+      </void>
+      <void index="1">
+       <string>te</string>
+      </void>
+      <void index="2">
+       <string>sentis_</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Como</string>
+     </void>
+     <void method="add">
+      <string>sentis_</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Muy bien</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Mal</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Bien</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Cansado</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Bien bien, gracias!</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta12">
+    <void property="pregunta">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>Vamos</string>
+      </void>
+      <void index="1">
+       <string>a</string>
+      </void>
+      <void index="2">
+       <string>caminar?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Vamos</string>
+     </void>
+     <void method="add">
+      <string>caminar?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dale</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dale vamos</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Ne</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Ni ganas</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Sii, daleeee</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta13">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Mate</string>
+      </void>
+      <void index="1">
+       <string>amargo</string>
+      </void>
+      <void index="2">
+       <string>o</string>
+      </void>
+      <void index="3">
+       <string>dulce?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Mate</string>
+     </void>
+     <void method="add">
+      <string>amargo</string>
+     </void>
+     <void method="add">
+      <string>dulce?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dulce</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Amargo</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No tomo mate</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No me gusta el mate</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta14">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Vamos</string>
+      </void>
+      <void index="1">
+       <string>a</string>
+      </void>
+      <void index="2">
+       <string>tomar</string>
+      </void>
+      <void index="3">
+       <string>algo?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Vamos</string>
+     </void>
+     <void method="add">
+      <string>tomar</string>
+     </void>
+     <void method="add">
+      <string>algo?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dale si!</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta15">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Vas</string>
+      </void>
+      <void index="1">
+       <string>a</string>
+      </void>
+      <void index="2">
+       <string>surfear</string>
+      </void>
+      <void index="3">
+       <string>hoy?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Vas</string>
+     </void>
+     <void method="add">
+      <string>surfear</string>
+     </void>
+     <void method="add">
+      <string>hoy?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Si, hay unas olas terribles</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No, esta horrible</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No creo</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Seguramente</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Si hay unas re olas</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No surfeo</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Jajaja, ni loco</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta16">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Te</string>
+      </void>
+      <void index="1">
+       <string>vas</string>
+      </void>
+      <void index="2">
+       <string>de</string>
+      </void>
+      <void index="3">
+       <string>viaje?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>vas</string>
+     </void>
+     <void method="add">
+      <string>viaje?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Siii, en un mes</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta17">
+    <void property="pregunta">
+     <array class="java.lang.String" length="7">
+      <void index="0">
+       <string>Estoy</string>
+      </void>
+      <void index="1">
+       <string>jugando</string>
+      </void>
+      <void index="2">
+       <string>a</string>
+      </void>
+      <void index="3">
+       <string>la</string>
+      </void>
+      <void index="4">
+       <string>Play</string>
+      </void>
+      <void index="5">
+       <string>te</string>
+      </void>
+      <void index="6">
+       <string>sumas?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Estoy</string>
+     </void>
+     <void method="add">
+      <string>jugando</string>
+     </void>
+     <void method="add">
+      <string>Play</string>
+     </void>
+     <void method="add">
+      <string>sumas?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Por supuesto, ya voy!</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta18">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Mate</string>
+      </void>
+      <void index="1">
+       <string>amargo</string>
+      </void>
+      <void index="2">
+       <string>o</string>
+      </void>
+      <void index="3">
+       <string>dulce?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Mate</string>
+     </void>
+     <void method="add">
+      <string>amargo</string>
+     </void>
+     <void method="add">
+      <string>dulce?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Amargo</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dulce</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>si</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No me gusta el mate</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta19">
+    <void property="pregunta">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>Salis</string>
+      </void>
+      <void index="1">
+       <string>a</string>
+      </void>
+      <void index="2">
+       <string>bailar?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Salis</string>
+     </void>
+     <void method="add">
+      <string>bailar?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Por supuesto, Bruto!!!</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta20">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Queres</string>
+      </void>
+      <void index="1">
+       <string>ir</string>
+      </void>
+      <void index="2">
+       <string>a</string>
+      </void>
+      <void index="3">
+       <string>Londres?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Queres</string>
+     </void>
+     <void method="add">
+      <string>Londres?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Jaja no me da la plata!</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta21">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Queres</string>
+      </void>
+      <void index="1">
+       <string>ser</string>
+      </void>
+      <void index="2">
+       <string>mi</string>
+      </void>
+      <void index="3">
+       <string>amigo?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Queres</string>
+     </void>
+     <void method="add">
+      <string>ser</string>
+     </void>
+     <void method="add">
+      <string>amigo?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Si de una!</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Por supuesto</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta22">
+    <void property="pregunta">
+     <array class="java.lang.String" length="5">
+      <void index="0">
+       <string>Que</string>
+      </void>
+      <void index="1">
+       <string>vas</string>
+      </void>
+      <void index="2">
+       <string>a</string>
+      </void>
+      <void index="3">
+       <string>hacer</string>
+      </void>
+      <void index="4">
+       <string>hoy?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Que</string>
+     </void>
+     <void method="add">
+      <string>vas</string>
+     </void>
+     <void method="add">
+      <string>hacer</string>
+     </void>
+     <void method="add">
+      <string>hoy?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Voy a mirar netflix todo el dia</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Si por supuesto</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Nada</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Nada</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Nada</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Nada</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Terminar el trabajo</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dormir</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Voy a ir a bailar</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta23">
+    <void property="pregunta">
+     <array class="java.lang.String" length="9">
+      <void index="0">
+       <string>Te</string>
+      </void>
+      <void index="1">
+       <string>vas</string>
+      </void>
+      <void index="2">
+       <string>a</string>
+      </void>
+      <void index="3">
+       <string>poner</string>
+      </void>
+      <void index="4">
+       <string>a</string>
+      </void>
+      <void index="5">
+       <string>hacer</string>
+      </void>
+      <void index="6">
+       <string>algo</string>
+      </void>
+      <void index="7">
+       <string>del</string>
+      </void>
+      <void index="8">
+       <string>trabajo?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>vas</string>
+     </void>
+     <void method="add">
+      <string>poner</string>
+     </void>
+     <void method="add">
+      <string>hacer</string>
+     </void>
+     <void method="add">
+      <string>algo</string>
+     </void>
+     <void method="add">
+      <string>del</string>
+     </void>
+     <void method="add">
+      <string>trabajo?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No, hoy juega la Seleccion</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Mas vale</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No tengo tiempo</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No creo</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>No</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Nada</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Si me quede hasta las 7 de la mañana</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Ya lo estoy terminando</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Probablemente Jaja</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta24">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Mate</string>
+      </void>
+      <void index="1">
+       <string>amargo</string>
+      </void>
+      <void index="2">
+       <string>o</string>
+      </void>
+      <void index="3">
+       <string>dulce?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Mate</string>
+     </void>
+     <void method="add">
+      <string>amargo</string>
+     </void>
+     <void method="add">
+      <string>dulce?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dulce</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>si</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Como estas?</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Amargo</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta25">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Vas</string>
+      </void>
+      <void index="1">
+       <string>a</string>
+      </void>
+      <void index="2">
+       <string>la</string>
+      </void>
+      <void index="3">
+       <string>playa?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Vas</string>
+     </void>
+     <void method="add">
+      <string>playa?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Si, hace un calor!!!</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta26">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Terminaste</string>
+      </void>
+      <void index="1">
+       <string>con</string>
+      </void>
+      <void index="2">
+       <string>la</string>
+      </void>
+      <void index="3">
+       <string>universidad?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Terminaste</string>
+     </void>
+     <void method="add">
+      <string>con</string>
+     </void>
+     <void method="add">
+      <string>universidad?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Si, hace un monton. Me fué muy bien</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta27">
+    <void property="pregunta">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>Queres</string>
+      </void>
+      <void index="1">
+       <string>hacer</string>
+      </void>
+      <void index="2">
+       <string>algo?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Queres</string>
+     </void>
+     <void method="add">
+      <string>hacer</string>
+     </void>
+     <void method="add">
+      <string>algo?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dale dale, estoy aburrido</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta28">
+    <void property="pregunta">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>Estas</string>
+      </void>
+      <void index="1">
+       <string>ahi?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Estas</string>
+     </void>
+     <void method="add">
+      <string>ahi?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Si si, aca estoy!!</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta29">
+    <void property="pregunta">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>Estas</string>
+      </void>
+      <void index="1">
+       <string>en</string>
+      </void>
+      <void index="2">
+       <string>tu</string>
+      </void>
+      <void index="3">
+       <string>casa?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Estas</string>
+     </void>
+     <void method="add">
+      <string>casa?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Si si</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta30">
+    <void property="pregunta">
+     <array class="java.lang.String" length="5">
+      <void index="0">
+       <string>Pensas</string>
+      </void>
+      <void index="1">
+       <string>hacer</string>
+      </void>
+      <void index="2">
+       <string>algo</string>
+      </void>
+      <void index="3">
+       <string>del</string>
+      </void>
+      <void index="4">
+       <string>trabajo?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Pensas</string>
+     </void>
+     <void method="add">
+      <string>hacer</string>
+     </void>
+     <void method="add">
+      <string>algo</string>
+     </void>
+     <void method="add">
+      <string>del</string>
+     </void>
+     <void method="add">
+      <string>trabajo?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Por supuesto</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>por supuesto</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Obvio</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <object class="modelo.Pregunta" id="Pregunta31">
+    <void property="pregunta">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>Vamos</string>
+      </void>
+      <void index="1">
+       <string>a</string>
+      </void>
+      <void index="2">
+       <string>caminar?</string>
+      </void>
+     </array>
+    </void>
+    <void property="tags">
+     <void method="add">
+      <string>Vamos</string>
+     </void>
+     <void method="add">
+      <string>caminar?</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dale, vamos</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Dale</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>si</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>bien</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>N</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="modelo.Respuesta">
+      <void property="respuesta">
+       <string>Terminaste con la universidad?</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
